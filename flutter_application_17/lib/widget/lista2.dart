@@ -98,7 +98,7 @@ class Clase extends State<Lista2> {
                           Text(items[index].preci),
                         ],
                       ),
-                      trailing: Icon(Icons.airplane_ticket),
+                      trailing: Icon(Icons.coffee_maker),
                     ),
                   ),
                 ),
